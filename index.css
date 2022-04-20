@@ -1,0 +1,17 @@
+.contenedor-imagenes {
+    display: flex;
+  }
+  
+  .contenedor-imagenes img:first-child {
+    margin-right: 10px;
+  }
+   
+  .body{
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+  }
+  .container{
+    background-color: aqua;
+  }
